@@ -1,4 +1,4 @@
-# Password Security Analysis - Cybersecurity Internship Task 6
+# Password Security Analysis 
 
 ## 📋 Project Overview
 This repository contains my analysis of password security as part of my cybersecurity internship. I tested various passwords using online strength checkers and researched common attack methods to understand what makes passwords secure.
